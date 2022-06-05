@@ -1,6 +1,6 @@
 # Mai's Portfolio
 
-# [Project 1: Sales Analysis]
+[Project 1: Sales Analysis](https://www.example.com)
 
 This is a project I worked on to practise my skills on Data Cleaning and Exploration.
 
